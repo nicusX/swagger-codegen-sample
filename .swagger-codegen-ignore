@@ -1,0 +1,5 @@
+# Swagger Codegen Ignore
+
+# the `spring` language generate these files also when `interfaceOnly` is `true`
+**/pom.xml
+**/README.md
